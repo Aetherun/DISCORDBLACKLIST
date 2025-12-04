@@ -7,7 +7,8 @@ The names included in this list have committed serious crimes and violations to 
 
  ._.Sakura (Ghostface)
   - *Reason: PDFile, Stolen Valor*
-    - ***Evidence: Pending Upload...***
+    - ***Evidence: [Ghostface Evidence.zip](https://github.com/user-attachments/files/23940287/Ghostface.Evidence.zip)
+***
 
  C0mbxt
   - *Reason: Pdfile*
